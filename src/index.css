@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato'), url(/Lato/Lato-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato-Thin';
+  src: local('Lato Thin'), local('Lato-Thin'), url(/Lato/Lato-Thin.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato-Regular';
+  src: local('Lato Regular'), local('Lato-Regular'), url(/Lato/Lato-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato-Light';
+  src: local('Lato Light'), local('Lato-Light'), url(/Lato/Lato-Light.ttf) format('truetype');
+}
+
+
+@font-face {
+  font-family: 'Lato-Black';
+  src: local('Lato Black'), local('Lato-Black'), url(/Lato/Lato-Black.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato-Bold';
+  src: local('Lato Bold'), local('Lato-Bold'), url(/Lato/Lato-Bold.ttf) format('truetype');
+}
+
+
+.aboutMe{
+  font-family: 'Lato-Light', sans-serif;
+}
+
+.aFrame{
+  font-family: 'Lato-Light', sans-serif;
+}
+
+.woodWorking{
+  font-family: 'Lato-Light', sans-serif;
+}
+
+
+.header{
+  font-family: 'Lato-Regular', sans-serif;
+
+}
