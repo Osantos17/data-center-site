@@ -17,7 +17,7 @@ function App() {
         <div>
           <AboutMe />
         </div>
-        <div className='text-white relative bottom-3 text-2xl text-center lg:bottom-0 lg:mt-4 lg:text-7xl'>- BIM -</div>
+        <div className='text-white relative bottom-3 text-2xl text-center md:text-4xl md:mt-16 lg:bottom-0 lg:mt-4 lg:text-7xl'>BIM</div>
         <div className='border-t border-gray-600 relative bottom-3 lg:my-4 w-full'></div>
           <div>
             <div className='lg:mt-14'>
@@ -30,7 +30,7 @@ function App() {
               <MT2 />
             </div>
           </div>
-          <div className='text-white text-2xl text-center lg:bottom-0 lg:mt-20 lg:text-7xl'>- DEVELOPER -</div>
+          <div className='text-white text-2xl text-center md:text-4xl md:mt-16 lg:bottom-0 lg:mt-20 lg:text-7xl'>DEVELOPER</div>
         <div className='border-t border-gray-600 lg:my-4 w-full'></div>
           <div className='mt-3 lg:mt-6 lg:mt-18'>
             <PlugIn />
@@ -38,7 +38,7 @@ function App() {
            <div className='mt-10 lg:mt-18'>
              <Aframe />
            </div>
-        <div className='mt-12'>
+        <div className='md:mt-20 mt-12'>
           <WoodWorking />
         </div>
       </div>

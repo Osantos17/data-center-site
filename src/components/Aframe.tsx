@@ -68,7 +68,7 @@ function AFrame() {
 
         <div>
           <div className="text-xs text-white text-center mx-3 md:text-xl md:mx-8 lg:mt-4 lg:mx-16 lg:text-2xl lg:leading-relaxed">
-            A-Frame was inspired by my passion for surfing and the need for a simpler, more intuitive forecast tool. To make complex data easier to understand at a glance, I designed a Dynamic Forecast Card that uses thoughtful typography alignment to prioritize key details as well. This layout transforms dense marine data into a clean, readable format. The app continues to evolve through real-world testing and user feedback, leading to features like Favorites and expanded wind/swell support.
+          A-Frame was born out of my passion for surfing and interest in technology. As a personal project, it gave me the opportunity to explore mobile development while solving complex marine forecast data more accessible. The app continues to evolve through hands-on testing and user feedback.
           </div>
         </div>
       </div>

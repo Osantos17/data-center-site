@@ -20,9 +20,8 @@ function WoodWorking() {
   return (
     <div className="woodWorking flex flex-row w-full px-2 py-6 lg:py-20">
       <div className="w-1/2 text-xs pr-4 text-white text-left md:text-lg lg:text-2xl lg:leading-relaxed">
-        Woodworking for me is about creating pieces that are both beautiful and functional. Every detail matters, once the first cut is made, there's no turning back. While some builds focus more on function than design, the same level of planning and precision goes into every piece.
+        Woodworking for me is about creating pieces that are both beautiful and functional. Every detail matters, once the first cut is made, there's no turning back. I still very much enjoy designing and have plenty of outlets for it in my personal time.
       </div>
-
       <div className="woodImages w-1/2 ml-auto mt-1 lg:w-2/5 relative">
         <Swiper
           scrollbar={{ hide: false }}

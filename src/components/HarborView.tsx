@@ -38,7 +38,7 @@ function HarborView() {
 
   return(
     <div className='HarborView'>
-      <div className='text-white underline text-center text-lg lg:text-5xl mb-5 lg:mb-14'>
+      <div className='text-white underline text-center text-lg md:text-2xl lg:text-5xl mb-5 lg:mb-14'>
         HARBOR VIEW
       </div>
       <div>
