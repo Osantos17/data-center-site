@@ -5,11 +5,11 @@ function AboutMe() {
   return (
     <div className="aboutMe lg:mt-20 lg:mx-12 ">
       <div className="header text-white text-xl pb-1 lg:pb-5 lg:text-4xl">
-        DESIGNER / DEVELOPER
+        BIM / DEVELOPER
       </div>
       <div className="flex flex-row">
         <p className="text-white text-xs text-left max-w-70 md:max-w-110 md:text-lg lg:text-2xl lg:max-w-2xl lg:leading-relaxed">
-        As an Architectural Designer, I’m passionate about turning ideas into tangible form. My growing interest in digital design led me to create A-Frame, a surf forecast app now on iOS. From branding to development, the process sparked a new passion for UI/UX and inspired me to pursue it as a career.
+        Since the inception of my architectural journey, I have been captivated by the technological advancements that empower architects with innovative tools. This fascination led me to master all facets of Autodesk Revit and its complementary technologies. To further expand my expertise, I incorporated coding into my skill set, enabling me to implement and better understand Revit automation and explore the potential of AI.
         </p>
         <div className="ml-auto mr-2">
           <Icons />  
