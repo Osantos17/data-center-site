@@ -48,7 +48,7 @@ function Icons() {
             />
           </a>
 
-          <a href="/Orlando Santos - BIM Resume.pdf" download>
+          <a href="/Orlando Santos - DC Resume.pdf" download>
             <img
               src="/images/CV.png"
               alt="Orlandos-Resume"
