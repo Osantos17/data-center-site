@@ -75,7 +75,7 @@ function HarborView() {
 
         <div>
           <div className="text-xs text-white text-center mx-3 md:text-xl md:mx-8 lg:mt-4 lg:mx-16 lg:text-2xl lg:leading-relaxed">
-          This site contains three 6-7 story buildings, a garage, and an amenities building. I took on the usual BIM tasks of setting up the site coordinates and coordinating that with consultants, BIM 360 set up, and selecting teams for each structure. The design of these buildings had a lot of curvature compared to typical buildings, so a lot of my time for this campus was spent ensuring accuracy and assisting the teams. A highlight of mine is creating an accurate 3D exterior pattern which consisted of 4 patterns, 3 colors on a curved surface; I managed to achieve this with a railing.
+          This campus includes three 6–7 story buildings, a garage, and amenities. I established site coordinates and the BIM 360 environment while working closely with consultants and internal teams. To address the complex curved exterior geometries, I developed a 3D multi-pattern façade solution using Revit railings to match architectural intent. I helped maintain design accuracy and facilitated cross-team collaboration by assigning specialized teams to each building and managing data integrity through multiple design iterations.
           </div>
         </div>
       </div>

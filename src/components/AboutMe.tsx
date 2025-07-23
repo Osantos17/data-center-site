@@ -9,7 +9,7 @@ function AboutMe() {
       </div>
       <div className="flex flex-row">
         <p className="text-white text-xs text-left max-w-70 md:max-w-150 md:text-lg lg:text-2xl lg:max-w-2xl lg:leading-relaxed">
-        Since the inception of my architectural journey, I have been captivated by the technological advancements that empower architects with innovative tools. This fascination led me to master all facets of Autodesk Revit and its complementary technologies. To further expand my expertise, I incorporated coding into my skill set, enabling me to implement and better understand Revit automation and explore the potential of AI.
+        Since beginning my architectural career, I’ve been passionate about leveraging technology to enhance design and construction workflows. Mastery of Autodesk Revit and complementary tools, combined with programming skills, allows me to develop automation solutions that improve accuracy and efficiency. This unique blend of BIM expertise and software development fuels my drive to support complex infrastructure projects, including data center environments, through innovative process improvement and cross-disciplinary coordination.
         </p>
         <div className="ml-auto mr-2">
           <Icons />  

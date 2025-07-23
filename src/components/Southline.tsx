@@ -75,7 +75,7 @@ function Southline() {
 
         <div>
           <div className="text-xs text-white text-center mx-3 md:text-xl md:mx-8 lg:mt-4 lg:mx-16 lg:text-2xl lg:leading-relaxed">
-          Having six 6-7 Story Office/Tech/Life Science buildings, 3 garages, and an amenities building. Phase 1 only consisted of two buildings, amenities, and a parking garage. While coordinating phase 1, we still needed to consider the future phases. For this project, I set up project and site coordinates, the modeling approach for the office buildings, loading/maintaining all families, and many other Revit duties. Throughout the lifespan of this project, I would spend most of my time in BIM 360 coordinating uploads and consumption, folder structure, and permissions.
+          Southline is a multi-phase development consisting of six 6–7 story office and life science buildings, three garages, and an amenities building. The initial phase focused on two buildings alongside the amenities and parking structures. I led the setup of project and site coordinates, modeling standards, and Revit family management across all phases to ensure consistency and efficiency. I also coordinated BIM 360 workflows, managing file uploads, folder structures, and user permissions to streamline collaboration between design and consulting teams. While supporting the immediate needs of Phase 1, I proactively planned scalable and adaptable BIM processes to support future phases.
           </div>
         </div>
       </div>

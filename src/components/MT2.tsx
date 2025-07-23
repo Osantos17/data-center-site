@@ -75,7 +75,7 @@ function MT2() {
 
         <div>
           <div className="text-xs text-white text-center mx-3 md:text-xl md:mx-8 lg:mt-4 lg:mx-16 lg:text-2xl lg:leading-relaxed">
-          Five 8-story buildings, three garages, and a single amenities reside on this site. For this project, I coordinated the garages and a hotel that was unfortunately put on permanent hold at 95% CD. This was prior to BIM 360, so we used plug-ins to clean our models and coordinate and using Box as our folder structure to coordinate with our consultants.
+          Moffett Towers II involved five 8-story buildings, three garages, and a hotel, with the project reaching 95% CD before being paused. I coordinated BIM models for both the garages and hotel, leveraging custom Revit plugins and cleaning workflows to enhance model quality. Prior to the adoption of BIM 360, I managed project data sharing and consultant coordination using structured Box folders to maintain clear communication. Through careful model maintenance and clash detection processes, I supported phased project delivery and improved integration among various design disciplines.
           </div>
         </div>
       </div>
